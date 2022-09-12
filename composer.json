@@ -1,0 +1,21 @@
+{
+    "name": "ridhopujiono/fcm-send-notification",
+    "description": "This makes it easier for you to send notifications with FCM. be it sending personally or to all users",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "classmap": [
+            "src"
+        ],
+        "psr-4": {
+            "Ridhopujiono\\FcmSendNotification\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ridhopujiono",
+            "email": "ridho@smktjp.sch.id"
+        }
+    ],
+    "require": {}
+}
